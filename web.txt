@@ -1,0 +1,14 @@
+<div class="section section-hero" id="home" style="background-image: url('/themes/H1ve-theme/static/img/bg.jpg'); background-position: 10% 50%">
+    <div class="section-inner">
+        <div class="table-container-outer container">
+            <div class="table-container-inner">
+                <div data-0="transform[swing]:translateY(0px);opacity[swing]:1" data-250="transform[swing]:translateY(-50px);opacity[swing]:0">
+                    <img class="img-responsive ctf_logo" src="/themes/H1ve-theme/static/img/cssgzhu.png" height="150px" width="150px" alt="H1ve-Logo">
+                <h1 class="hero-header" data-150="transform[swing]:translateX(0px);opacity[swing]:1" data-550="transform[swing]:translateX(-25px);opacity[swing]:0">网安学会 <strong class="main-color">练习平台</strong></h1>
+                <h2 class="hero-subheader" data-200="transform[swing]:translateX(0px);opacity[swing]:1" data-500="transform[swing]:translateX(25px);opacity[swing]:0">CTF <strong class="main-color">Online</strong></h2>
+                <div data-250="transform[swing]:translateY(0px);opacity[swing]:1" data-550="transform[swing]:translateY(-15px);opacity[swing]:0">
+                    <div class="divider">//</div>
+                </div>
+                <div data-350="transform[swing]:translateY(0px);opacity[swing]:1" data-650="transform[swing]:translateY(-15px);opacity[swing]:0">
+                    <p class="">收集各类自创/大型CTF比赛赛题，提供容器化专属题目环境，供广大CTF爱好者学习。</p>
+</div>
